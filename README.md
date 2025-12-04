@@ -2,6 +2,7 @@
 This repository contains 8 loop-based Python problems focusing on iteration, mathematical logic, and pattern creation. 
 You will practice for-loops, while-loops, nested loops, and common problem-solving techniques like checking prime numbers, generating Fibonacci sequences, and printing star patterns.
 These questions form part of the bigger 50-question Python Basics Practice Set, covering the Loops & Patterns category.
+Questions Included (Q39–Q46)
 
 ✅Topics Covered
 1. For loops and while loops
